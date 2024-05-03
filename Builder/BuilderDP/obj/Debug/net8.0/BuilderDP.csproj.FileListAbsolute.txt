@@ -1,0 +1,15 @@
+C:\Users\bobby\OneDrive\Documents\Work\CSC 403 - Design Patterns Demo\Builder\BuilderDP\obj\Debug\net8.0\BuilderDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobby\OneDrive\Documents\Work\CSC 403 - Design Patterns Demo\Builder\BuilderDP\obj\Debug\net8.0\BuilderDP.AssemblyInfoInputs.cache
+C:\Users\bobby\OneDrive\Documents\Work\CSC 403 - Design Patterns Demo\Builder\BuilderDP\obj\Debug\net8.0\BuilderDP.AssemblyInfo.cs
+C:\Users\bobby\OneDrive\Documents\Work\CSC 403 - Design Patterns Demo\Builder\BuilderDP\obj\Debug\net8.0\BuilderDP.csproj.CoreCompileInputs.cache
+C:\Users\bobby\OneDrive\Documents\Work\CSC 403 - Design Patterns Demo\Builder\BuilderDP\obj\Debug\net8.0\BuilderDP.sourcelink.json
+C:\Users\bobby\OneDrive\Documents\Work\CSC 403 - Design Patterns Demo\Builder\BuilderDP\bin\Debug\net8.0\BuilderDP.exe
+C:\Users\bobby\OneDrive\Documents\Work\CSC 403 - Design Patterns Demo\Builder\BuilderDP\bin\Debug\net8.0\BuilderDP.deps.json
+C:\Users\bobby\OneDrive\Documents\Work\CSC 403 - Design Patterns Demo\Builder\BuilderDP\bin\Debug\net8.0\BuilderDP.runtimeconfig.json
+C:\Users\bobby\OneDrive\Documents\Work\CSC 403 - Design Patterns Demo\Builder\BuilderDP\bin\Debug\net8.0\BuilderDP.dll
+C:\Users\bobby\OneDrive\Documents\Work\CSC 403 - Design Patterns Demo\Builder\BuilderDP\bin\Debug\net8.0\BuilderDP.pdb
+C:\Users\bobby\OneDrive\Documents\Work\CSC 403 - Design Patterns Demo\Builder\BuilderDP\obj\Debug\net8.0\BuilderDP.dll
+C:\Users\bobby\OneDrive\Documents\Work\CSC 403 - Design Patterns Demo\Builder\BuilderDP\obj\Debug\net8.0\refint\BuilderDP.dll
+C:\Users\bobby\OneDrive\Documents\Work\CSC 403 - Design Patterns Demo\Builder\BuilderDP\obj\Debug\net8.0\BuilderDP.pdb
+C:\Users\bobby\OneDrive\Documents\Work\CSC 403 - Design Patterns Demo\Builder\BuilderDP\obj\Debug\net8.0\BuilderDP.genruntimeconfig.cache
+C:\Users\bobby\OneDrive\Documents\Work\CSC 403 - Design Patterns Demo\Builder\BuilderDP\obj\Debug\net8.0\ref\BuilderDP.dll
