@@ -1,0 +1,14 @@
+C:\Users\forge\source\repos\designpattern\designpattern\bin\Debug\net8.0\designpattern.exe
+C:\Users\forge\source\repos\designpattern\designpattern\bin\Debug\net8.0\designpattern.deps.json
+C:\Users\forge\source\repos\designpattern\designpattern\bin\Debug\net8.0\designpattern.runtimeconfig.json
+C:\Users\forge\source\repos\designpattern\designpattern\bin\Debug\net8.0\designpattern.dll
+C:\Users\forge\source\repos\designpattern\designpattern\bin\Debug\net8.0\designpattern.pdb
+C:\Users\forge\source\repos\designpattern\designpattern\obj\Debug\net8.0\designpattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forge\source\repos\designpattern\designpattern\obj\Debug\net8.0\designpattern.AssemblyInfoInputs.cache
+C:\Users\forge\source\repos\designpattern\designpattern\obj\Debug\net8.0\designpattern.AssemblyInfo.cs
+C:\Users\forge\source\repos\designpattern\designpattern\obj\Debug\net8.0\designpattern.csproj.CoreCompileInputs.cache
+C:\Users\forge\source\repos\designpattern\designpattern\obj\Debug\net8.0\designpattern.dll
+C:\Users\forge\source\repos\designpattern\designpattern\obj\Debug\net8.0\refint\designpattern.dll
+C:\Users\forge\source\repos\designpattern\designpattern\obj\Debug\net8.0\designpattern.pdb
+C:\Users\forge\source\repos\designpattern\designpattern\obj\Debug\net8.0\designpattern.genruntimeconfig.cache
+C:\Users\forge\source\repos\designpattern\designpattern\obj\Debug\net8.0\ref\designpattern.dll
