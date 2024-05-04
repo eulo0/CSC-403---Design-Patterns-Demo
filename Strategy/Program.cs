@@ -86,7 +86,7 @@ public class AddStrategy : InterfaceStrategy
 }
 
 /// <summary>
-/// Addition strategy
+/// subtraction strategy
 /// </summary>
 public class SubStrategy : InterfaceStrategy
 {
@@ -97,7 +97,7 @@ public class SubStrategy : InterfaceStrategy
 }
 
 /// <summary>
-/// Addition strategy
+/// multiplication strategy
 /// </summary>
 public class MulStrategy : InterfaceStrategy
 {
